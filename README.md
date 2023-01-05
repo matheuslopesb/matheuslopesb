@@ -5,11 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/matheuslopesb">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslopesb&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslopesb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslopesb&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslopesb&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
