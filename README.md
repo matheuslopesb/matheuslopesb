@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/matheuslopesb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslopesb&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslopesb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslopesb&theme=dracula"/>
 </div>
   
