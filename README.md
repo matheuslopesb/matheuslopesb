@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Lopes, um desenvolvedor que é apaixonado por programção! 
+## Olá! Eu me chamo Matheus Lopes, e sou um desenvolvedor que é apaixonado por programção! 
 
 - 🔭 Hoje sou desenvolvedor Fullstack Javascript
 
