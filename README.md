@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Matheus Lopes, um desenvolvedor que é apaixonado por programção! 
 
 - 🔭 Hoje sou desenvolvedor Fullstack Javascript
-- 🌱 Estudando Typescript
 
 <div align="center">
   <a href="https://github.com/matheuslopesb">
