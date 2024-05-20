@@ -43,7 +43,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 <div>
 
+<br/>
+
 <!-- Gif -->
 <p align="left">
-  <img align="center" src="https://github.com/matheuslopesb/matheuslopesb/assets/code-and-coffee.gif" alt="code-and-coffee-gif"/>
+  <img align="center" src="https://raw.githubusercontent.com/matheuslopesb/matheuslopesb/master/assets/code-and-coffee.gif" alt="code-and-coffee-gif"/>
 </p>
