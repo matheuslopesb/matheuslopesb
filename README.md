@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">A passionate Backend developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Department Manager app](https://www.github.com/matheuslopesb/deptManager)
+- 🔭 I’m currently working on [Department Manager app](https://bitbucket.org/matheuslbrito/deptManager-api)
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
 
@@ -10,6 +10,7 @@
 
 <!-- Stats -->
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/matheuslopesbrito)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/matheuslbrito)
 [![Stack Overflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/25107370/matheus-lopes-brito)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/matheuslopesbrito)
 
