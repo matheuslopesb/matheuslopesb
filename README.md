@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">A passionate Backend developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Department Manager app](https://bitbucket.org/matheuslbrito/deptmanager-api)
+<!--- 🔭 I’m currently working on [Department Manager app (Backend)](https://bitbucket.org/matheuslbrito/deptmanager-api)-->
+
+- 🔭 I’m currently working on <a href="https://bitbucket.org/matheuslbrito/deptmanager-api" target="_blank" style="text-decoration: none;">Department Manager app (Backend)</a>
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
 
