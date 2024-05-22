@@ -8,11 +8,11 @@
 
 - 📫 How to reach me **matfsdev@gmail.com**
 
-<!-- Stats -->
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/matheuslopesbrito)
 [![Stack Overflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/25107370/matheus-lopes-brito)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/matheuslopesbrito)
 
+<!-- Stats -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matheuslopesb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslopesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
@@ -42,3 +42,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 <div>
+
+[adventure-audio.webm](https://github.com/matheuslopesb/matheuslopesb/assets/108641367/cc24fdf7-85d1-4f5f-be97-4b5513740f01)
