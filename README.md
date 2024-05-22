@@ -42,8 +42,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 <div>
-
-<!-- Audio -->
-<audio controls autoplay>
-  <source src="./assets/adventure-audio.mp3" type="audio/mpeg">
-</audio>
