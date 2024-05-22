@@ -43,4 +43,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 <div>
 
-[adventure-audio.webm](https://github.com/matheuslopesb/matheuslopesb/assets/108641367/cc24fdf7-85d1-4f5f-be97-4b5513740f01)
+<!-- Code and Coffee GIf -->
+<img src="https://github.com/matheuslopesb/matheuslopesb/assets/code-and-coffee.gif" alt="code-and-coffee.gif" />
