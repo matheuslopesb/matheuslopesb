@@ -48,10 +48,5 @@
 
 <!-- Code and Coffee Gif -->
 <p align="left">
-  <img align="center" src="/assets/code-and-coffee.gif" alt="code-and-coffee-gif"/>
+  <img align="center" src="https://raw.githubusercontent.com/matheuslopesb/matheuslopesb/master/assets/code-and-coffee.gif" alt="code-and-coffee-gif"/>
 </p>
-
-<!-- Adventure Audio -->
-<video autoplay loop hidden>
-  <source src="/assets/adventure-audio.webm" type="video/webm">
-</video>
