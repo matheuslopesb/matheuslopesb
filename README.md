@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Backend developer from Brazil.</h3>
 
 - 🌱 I’m currently preparing for the **Oracle Certified Associate, Java SE 8 Programmer** certification.
-- Oracle Certified Associate, Java SE 8 Programmer
-
 - 📫 How to reach me **matfsdev@gmail.com**
 
 <!-- Stats -->
