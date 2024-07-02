@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">A passionate Backend developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Department Manager app (Backend side)](https://bitbucket.org/matheuslbrito/deptmanager-api)
-
-- 🌱 I’m currently learning **Java and Spring Boot.**
+- 🌱 I’m currently preparing for the **Oracle Certified Associate, Java SE 8 Programmer** certification.
+- Oracle Certified Associate, Java SE 8 Programmer
 
 - 📫 How to reach me **matfsdev@gmail.com**
 
