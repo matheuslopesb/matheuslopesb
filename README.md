@@ -1,8 +1,10 @@
 <!-- Presentation -->
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
-<h3 align="center">A passionate Backend developer from Brazil.</h3>
+<h3 align="center">A passionate Java Backend Developer (**Oracle Certified Associate, Java SE 8 Programmer**) from Brazil.</h3>
 
-- 🌱 I’m currently preparing for the **Oracle Certified Associate, Java SE 8 Programmer** certification.
+[![OCA Java SE 8 Programmer](/OCAJavaSE8ProgrammerBadge.jpg)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=99937D5F61FD8703E81E457CB0432D9CA440B07D1FD1C0DB7585AB1E3118FE23)
+
+- 🌱 I’m currently developing my personal website.
 - 📫 How to reach me **matfsdev@gmail.com**
 
 <!-- Stats -->
