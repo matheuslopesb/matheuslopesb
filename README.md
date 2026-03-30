@@ -4,7 +4,6 @@
 
 [![OCA Java SE 8 Programmer](https://raw.githubusercontent.com/matheuslopesb/matheuslopesb/master/assets/OCAJavaSE8ProgrammerBadge.jpg)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=99937D5F61FD8703E81E457CB0432D9CA440B07D1FD1C0DB7585AB1E3118FE23)
 
-- 🌱 I’m currently developing my personal website.
 - 📫 How to reach me **matfsdev@gmail.com**
 
 <!-- Stats -->
